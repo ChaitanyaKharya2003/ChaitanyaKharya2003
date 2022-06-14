@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ChaitanyaKharya2003
-- 👀 I’m interested in AI, Full-Stack Development, Cyber Security
-- 🌱 I’m currently learning Computer Science Enggineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ckharya@gmail.com
+- 👋 Hi, I’m Chaitanya Kharya
+- 👀 I’m interested in Full-Stack Development, Cyber Security and Data Science
+- 🌱 I’m currently learning Computer Science Engineering
+- 💞️ I’m looking to collaborate on any project.
+- 📫 Reach me at ckharya@gmail.com
 
 <!---
 ChaitanyaKharya2003/ChaitanyaKharya2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
