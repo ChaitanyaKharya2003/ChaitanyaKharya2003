@@ -22,6 +22,13 @@
 - Email: [ckharya@gmail.com](mailto:ckharya@gmail.com), [kharyachaitanya@gmail.com](mailto:kharyachaitanya@gmail.com), [e21cseu0063@bennett.edu.in](mailto:e21cseu0063@bennett.edu.in)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaitanya%20Kharya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyakharya/)
 
+### 📈 GitHub Stats
+![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaKharya2003&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaKharya2003&layout=compact&theme=radical)
+
+### 🔥 Streak Stats
+![Chaitanya's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaKharya2003&theme=radical)
+
 <!---
 ChaitanyaKharya2003/ChaitanyaKharya2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
